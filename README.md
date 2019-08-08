@@ -19,7 +19,7 @@ Face Synthesis and Super Resolution Using Stacked Generative Adversarial Network
 
 ## 4. Calculate FID
 - a.The FID calculating code is from [here](https://github.com/mseitzer/pytorch-fid)
-- b.Run **split_testset.py** to seperate blur tesing images and ground truth
+- b.Run **3.split_testset.py** to seperate blur tesing images and ground truth
 - c.Run the FID calculating command
 `python 4.fid_score.py dataset/yourData/gt test`
 
