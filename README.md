@@ -25,12 +25,12 @@ Face Synthesis and Super Resolution Using Stacked Generative Adversarial Network
 
 ## 5. FID results
 Table 1 FID score compare in different resolution transformation
-name|16 to 64|32 to 128|64 to 256
---|--|--|--
-Wavelet SRNet |45.952|54.533|31.929
-Cycle GAN |63.837|32.228|42.218
-SRN-Deblur |125.576|41.463|12.729
-ours |51.646|29.685|13.431
+|name|16 to 64|32 to 128|64 to 256
+| --- | --- | --- | --- |
+|Wavelet SRNet |45.952|54.533|31.929
+|Cycle GAN |63.837|32.228|42.218
+|SRN-Deblur |125.576|41.463|12.729
+|ours |51.646|29.685|13.431
 
 ## 6. Images results
 ![Fig](Fig.jpg)
